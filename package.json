@@ -13,7 +13,8 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "postbuild": "cp static/ads.txt public/ads.txt || true"
   },
   "engines": {
     "npm": ">=10.9.2",
