@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-08-05T05:17:02.221+09:00","modified":"2025-08-05T05:23:04.486+09:00","cssclasses":""}
+publish: true
 ---
-
 #2025-08-05 05:17
 
 Status: 
