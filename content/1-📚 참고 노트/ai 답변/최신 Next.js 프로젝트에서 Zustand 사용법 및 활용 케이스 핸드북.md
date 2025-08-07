@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-07-31T22:59:41.569+09:00","modified":"2025-08-01T22:05:37.749+09:00","cssclasses":""}
+publish:  true
 ---
-
 
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
