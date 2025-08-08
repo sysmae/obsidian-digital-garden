@@ -1,5 +1,5 @@
 ---
-publish:  true
+publish: true
 ---
 
 젠킨스 사용법과 실제 문법에 초점을 두고 어떻게 설계되고 사용하는지 핸드북 형식으로 요약 정리. nodejs

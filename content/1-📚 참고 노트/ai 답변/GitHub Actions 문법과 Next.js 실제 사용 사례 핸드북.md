@@ -1,5 +1,5 @@
 ---
-publish:  true
+publish: true
 ---
 
 문법과 실제 nextjs 프로젝트에서의 사용 사례를 중심으로 핸드북 형식으로 요약 정리. 기본부터 고급까지

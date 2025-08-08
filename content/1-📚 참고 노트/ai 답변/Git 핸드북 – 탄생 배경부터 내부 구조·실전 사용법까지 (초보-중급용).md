@@ -1,5 +1,5 @@
 ---
-publish:  true
+publish: true
 ---
 
 # Git 핸드북 – 탄생 배경부터 내부 구조·실전 사용법까지 (초보-중급용)

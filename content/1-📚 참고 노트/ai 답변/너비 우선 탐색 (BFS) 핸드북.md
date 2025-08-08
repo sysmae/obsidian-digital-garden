@@ -1,5 +1,5 @@
 ---
-publish:  true
+publish: true
 ---
 
 너비 우선 탐색 BFS. 파이썬 코딩 테스트
