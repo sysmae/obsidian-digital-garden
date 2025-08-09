@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2025-08-08T12:53:47.375+09:00","modified":"2025-08-09T12:34:34.213+09:00","cssclasses":""}
 ---
+
 #2025-08-08 12:53
 
 Tags:
