@@ -1,8 +1,10 @@
 ---
-{"publish":true,"created":"2025-08-02T10:55:19.196+09:00","modified":"2025-08-09T15:13:13.425+09:00","cssclasses":""}
+{"publish":true,"created":"2025-08-02T10:55:19.196+09:00","modified":"2025-08-09T15:48:25.512+09:00","cssclasses":""}
 ---
 
 # SQLD
+- [[2-✍️ 문헌 노트/임시/SQL\|SQL]]
+- [[2-✍️ 문헌 노트/데이터 모델링\|데이터 모델링]]
 
 
 https://quizeey.com/sqlp-developer#google_vignette
